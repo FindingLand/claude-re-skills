@@ -10,6 +10,10 @@ Free, ready-to-install skills for Claude AI, built and battle-tested by [Finding
 | [agentweb](agentweb/) | Builds and publishes your own agent or brokerage website for free (GitHub + Netlify, custom domain, working lead form) | [agentweb.skill](https://github.com/FindingLand/claude-re-skills/raw/main/agentweb/agentweb.skill) |
 | [recrm](recrm/) | Builds your own real estate CRM in Airtable: contacts, properties, deal pipeline, follow-up views. $0-20/mo instead of $69-1,500/mo | [recrm.skill](https://github.com/FindingLand/claude-re-skills/raw/main/recrm/recrm.skill) |
 
+| [reteam](reteam/) | Sets up a team of AI role assistants for your brokerage: lead qualifier, listing writer, follow-up, CRM updater, market reporter and more | [reteam.skill](https://github.com/FindingLand/claude-re-skills/raw/main/reteam/reteam.skill) |
+| [listit](listit/) | Turns a few property details into full listing content: MLS description, social captions, email blast, open-house blurb, SMS | [listit.skill](https://github.com/FindingLand/claude-re-skills/raw/main/listit/listit.skill) |
+| [mktrep](mktrep/) | Branded monthly local market report: numbers plus analysis, ready to send so you stay the local expert | [mktrep.skill](https://github.com/FindingLand/claude-re-skills/raw/main/mktrep/mktrep.skill) |
+
 ## How to install a skill (1 minute)
 
 1. Download the `.skill` file
