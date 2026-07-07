@@ -13,6 +13,7 @@ Free, ready-to-install skills for Claude AI, built and battle-tested by [Finding
 | [reteam](reteam/) | Sets up a team of AI role assistants for your brokerage: lead qualifier, listing writer, follow-up, CRM updater, market reporter and more | [reteam.skill](https://github.com/FindingLand/claude-re-skills/raw/main/reteam/reteam.skill) |
 | [listit](listit/) | Turns a few property details into full listing content: MLS description, social captions, email blast, open-house blurb, SMS | [listit.skill](https://github.com/FindingLand/claude-re-skills/raw/main/listit/listit.skill) |
 | [mktrep](mktrep/) | Branded monthly local market report: numbers plus analysis, ready to send so you stay the local expert | [mktrep.skill](https://github.com/FindingLand/claude-re-skills/raw/main/mktrep/mktrep.skill) |
+| [newsdigest](newsdigest/) | Personal signal-only news briefing: your topics and sources across today, this week and this month, headlines first, no clickbait or noise | [newsdigest.skill](https://github.com/FindingLand/claude-re-skills/raw/main/newsdigest/newsdigest.skill) |
 
 ## How to install a skill (1 minute)
 
