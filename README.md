@@ -23,6 +23,13 @@ Free, ready-to-install skills for Claude AI, built and battle-tested by [Finding
 2. In the Claude app go to Settings, then Capabilities, then Skills
 3. Upload the file. Done: Claude now knows how to do the job
 
+## Always the latest version
+
+These skills improve over time. Each one carries a quiet version check: when a newer version is
+published here, your Claude will mention it the next time you use the skill and point you back to
+[findingland.help/free-resources](https://findingland.help/free-resources.html) to grab the update free.
+No tracking, no account, nothing runs without your say-so.
+
 ## Who we are
 
 [Finding Land](https://findingland.help) builds AI automations for US real estate companies. These skills are free. If you want the done-for-you version, [get in touch](https://findingland.help/contact-us.html).
