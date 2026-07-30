@@ -30,6 +30,23 @@ published here, your Claude will mention it the next time you use the skill and 
 [findingland.help/free-resources](https://findingland.help/free-resources.html) to grab the update free.
 No tracking, no account, nothing runs without your say-so.
 
+## How these are built
+
+Every skill here is a genericized version of a system running in production for a real client, not a
+prompt pack. Under the hood they are built with:
+
+- **Claude / Anthropic API** and **MCP** for the agent layer, with retrieval over a structured
+  knowledge store (Airtable) rather than a vector dump
+- **n8n** for event driven orchestration: webhook and record-change triggers, not polling, so a flow
+  reacts in seconds instead of running thousands of empty checks a day
+- **Python** for rendering, data work and the pieces that do not belong in a visual builder
+- **REST API integration** against the tools real estate businesses already run: CRMs, Gmail,
+  Slack, Google Sheets, rent platforms and listing sites
+- **Vision based browser agents** for the platforms that still have no API
+
 ## Who we are
 
 [Finding Land](https://findingland.help) builds AI automations for US real estate companies. These skills are free. If you want the done-for-you version, [get in touch](https://findingland.help/contact-us.html).
+
+Built by Peter Israel, AI engineer and data scientist
+([LinkedIn](https://www.linkedin.com/in/peter-israel-founder)).
