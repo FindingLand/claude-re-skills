@@ -1,11 +1,9 @@
-# n8nflows — Real Estate Automation Flows in n8n
+# n8nflows: Your First n8n Automations
 
-Turns Claude into your automation builder. Describe what you want ("text me and the lead within 60 seconds of a new inquiry") and Claude designs the n8n flow, gives you the nodes/JSON to import, and helps you test it.
+A coach for building your first n8n flows: lead capture to CRM, a daily inbox digest, form to invoice, change alerts and a daily report. It explains when n8n beats asking the AI directly, and the judgment calls (webhook vs schedule vs polling, error alerts) as you go.
 
-Covers: speed-to-lead replies, lead routing, multi-touch email/SMS follow-up, CRM sync, appointment booking, owner contact enrichment, review requests, weekly pipeline reports.
+**[Download n8nflows.skill](https://github.com/FindingLand/claude-re-skills/raw/main/n8nflows/n8nflows.skill)** then install it in your AI assistant: Settings, Capabilities, Skills, upload.
 
-Why n8n: it runs flat-cost or free self-hosted, instead of per-task pricing that balloons as you scale.
-
-**[Download n8nflows.skill](https://github.com/FindingLand/claude-re-skills/raw/main/n8nflows/n8nflows.skill)** then install it in Claude: Settings, Capabilities, Skills, upload.
+Free skills for any business, all of them, at [findingland.help/free-resources](https://findingland.help/free-resources).
 
 Built by [Finding Land](https://findingland.help)
