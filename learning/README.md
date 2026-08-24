@@ -8,7 +8,7 @@ and it tunes itself so that kind of lesson never comes back.
 Covers lowering your stimuli baseline so work becomes interesting again (staring at a wall, no phone,
 no games, no series), protecting attention, starting when you do not feel like it, making work fun with
 mini goals and one ambitious goal, energy and recovery, deciding what not to do, and thinking better.
-Sixty-five lessons in the library, a log so nothing repeats, and no invented research.
+81Eighty-one lessons in the library, a log so nothing repeats, and no invented research.
 
 **[Download learning.skill](https://github.com/FindingLand/claude-re-skills/raw/main/learning/learning.skill)** then install it in your AI assistant: Settings, Capabilities, Skills, upload.
 

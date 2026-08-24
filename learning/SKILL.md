@@ -8,7 +8,8 @@ description: >-
   starting when you do not feel like it, making work fun with mini goals and one ambitious goal,
   gamifying a boring task, energy and recovery, deciding what not to do, and thinking better. Keeps a
   log so it never repeats a lesson, learns the user's taste from their reactions, and tunes itself when
-  a lesson lands badly. Use this whenever the user asks for a lesson, a daily lesson, a productivity
+  a lesson lands badly. It works from the user's own ranked life priorities, so it never trades a higher
+  priority away for work hours. Use this whenever the user asks for a lesson, a daily lesson, a productivity
   tip, a work tip, says learning, wants to focus better, cannot get started, feels distracted or bored
   by their own work, wants to make work more engaging, or asks for the deeper version of a previous
   lesson. Trigger on: learning, lesson, daily lesson, teach me something, productivity tip, work tip,
@@ -61,7 +62,7 @@ Do it at most once per conversation, and never block the real work on it.
 
 ## What you need
 
-Four answers, once. Nothing else, no account, no app.
+Five answers, once. Nothing else, no account, no app.
 
 1. **What the work is.** Job, role, and the kind of task that eats the day (client work, writing, code,
    calls, admin). Lessons get aimed at this.
@@ -69,13 +70,37 @@ Four answers, once. Nothing else, no account, no app.
    (calls, school run, a job), and roughly how many hours are theirs to control.
 3. **The current friction.** In their words: cannot start, cannot stay, bored, scattered, tired,
    too many small things, no time to think. One or two, not a list.
-4. **What they have already tried and dropped.** This is the most useful answer of the four. Anything
+4. **What they have already tried and dropped.** This is the most useful answer of the five. Anything
    on this list is banned from day one unless the lesson brings a genuinely new mechanism, and when it
    does, say plainly why this version is different.
+5. **Their priorities, in their own order.** Not work priorities, life ones: the three or four things
+   that actually matter, ranked by them and not by you, plus the weekly commitments that are not up for
+   negotiation (a training session, a sport with the same people, a standing dinner). This is the answer
+   that stops the skill from quietly optimising work at the cost of something they have already decided
+   matters more.
 
 Ask these once, in one message, on the very first run. Do not interview them again, ever. If the user
 says "just start," skip the questions, deliver day one from the library, and pick the four answers up
 from their reactions over the first week.
+
+## Priorities outrank productivity
+
+Almost all productivity advice silently assumes work sits at the top of the user's life and everything
+else is an input to it. For very few people is that actually true, so a lesson that trades away
+something they have ranked above work is not a good lesson, it is a bad trade delivered with
+confidence. Once the priority order is written down it is a constraint on every lesson:
+
+- **Never propose trading a higher priority for a lower one.** If health, sleep or people rank above
+  work, no lesson may suggest borrowing from them to buy work hours, however good the arithmetic looks
+  on a busy week. Suggest the trade the other way when it is warranted.
+- **Protecting a top priority IS a productivity lesson.** The weekly anchor that never moves is what
+  keeps a multi-year effort alive. People working for themselves rarely fail from too little effort;
+  they fail by stopping everything at once, around month eight.
+- **Aim at the priority that is currently starved.** If relationships rank second and the log shows six
+  straight weeks of work lessons, the next lesson serves the second one. The course is aimed at the
+  whole hierarchy, not only the part that produces output.
+- **Use the hierarchy to break ties.** When two lessons both fit the rotation, deliver the one that
+  serves the higher priority.
 
 ## Setup: the two files
 
@@ -89,6 +114,9 @@ Good hours: 7am to 11am, second wind after 6pm
 Fixed: client calls 2pm to 4pm most days
 Friction: hard to start in the morning, phone pulls me mid task
 Tried and dropped: pomodoro (25 min is too short), 5am wake up
+Priorities: 1 gratitude, 2 relationships, 3 health, 4 money (health above money on purpose)
+Non-negotiable: football Tue, Thu, Sun with the same friends, never traded for a work hour
+Operating model: calm, one thing at a time, actually enjoying it
 Taste: likes mechanisms and numbers, hates anything that sounds like a guru
 Banned topics: morning routines, journaling
 ```
@@ -261,6 +289,7 @@ paste a seed line as the lesson.
 ### Theme 1: Baseline (make work the most interesting thing in the room)
 
 - **Stare at the wall** — Ten minutes of deliberate nothing before starting. Your brain rates the work against whatever else is on offer; remove the offers and the work wins by default. (mixed)
+- **Two modes, and do not confuse them** — Counting breaths is the training that builds the focus muscle. Staring at a wall is the break that resets between blocks and lets the mind wander on purpose. Both are worth doing, but only one of them is practice, and doing only the pleasant one is why the muscle never grows. (mixed)
 - **The phone is not a distraction, it is a competitor** — It is a product engineered by thousands of people to beat your work for your attention. You are not weak, you are outgunned; put it in another room, because distance beats willpower. (solid)
 - **Cheap dopamine in the morning is a tax on the whole day** — Fifteen minutes of feed before work raises the bar every task must clear for the next several hours. Spend the first hour clean and the day is cheaper to run. (mixed)
 - **Boredom is a muscle** — Start at ten minutes of unstimulated time and add two a week. The tolerance transfers directly: the longer you can sit with nothing, the longer you can sit with something hard. (lore)
@@ -282,6 +311,8 @@ paste a seed line as the lesson.
 - **Start with the piece you understand** — The standard advice is to eat the frog first. Do the opposite when you cannot start at all: the easy known piece gets you into the file, and being in the file is most of the battle. (lore, deliberately contradicts standard advice)
 - **Set the desk the night before** — The tab open, the file open, the notebook on the chair. Ten seconds of setup then buys you the whole morning's start. (lore)
 - **The ugly first draft, on purpose** — Give yourself ten minutes to produce something deliberately bad. Perfectionism cannot block what is already bad, and bad text is infinitely easier to edit than no text. (mixed)
+- **Block tomorrow tonight** — Put tomorrow on the calendar before you sleep and pre-decide everything you can, down to what you will wear. A day that is already decided gets executed; a day that has to be designed at nine in the morning gets negotiated instead. (mixed)
+- **Start above the work** — Thirty seconds before the first task, name one thing that is good. The default setting of the brain is threat scanning, which narrows attention onto what is wrong, and a narrow frame is the worst one to think in. (mixed)
 - **Re-entry ritual** — After any interruption, spend sixty seconds re-reading the last three lines you wrote before touching anything. Attention leaves residue; this is how you pick it back up instead of restarting cold. (solid)
 
 ### Theme 3: Attention (protect the only asset you actually have)
@@ -306,6 +337,7 @@ paste a seed line as the lesson.
 - **Never miss twice** — Streaks are powerful and brittle. The rule that saves them is not perfection, it is that one miss is nothing and two in a row is the start of a slide. (lore)
 - **Invent a constraint to make a boring task a puzzle** — Do it in three steps, without the mouse, in half the words, in twenty minutes. Constraints turn drudgery into a problem, and problems are interesting. (mixed)
 - **Put the part you love first** — Inside almost any obligation there is a slice you would do for free. Do that slice first: it pulls the rest of the task along behind it instead of the rest of the task blocking it. (lore)
+- **Pick someone to operate like** — Choose one person, real or fictional, whose way of working you want, and ask what they would do with this hour. It compresses a hundred small decisions into a single recall, and it aims at a way of being rather than a task. Fifty percent more like them is already a lot. (lore)
 - **Rewards that do not raise the baseline** — Reward a finished block with a walk, a climb, food, a conversation. Rewarding it with a feed or a series pays you in the exact currency that makes the next block harder. (mixed)
 
 ### Theme 5: Body (the boring inputs that decide everything)
@@ -316,6 +348,7 @@ paste a seed line as the lesson.
 - **Hard exercise after deep work, not before** — Train after the thinking is done, unless the training is light. A hard session eats the exact resource the hard task needed. (mixed)
 - **The afternoon dip is a fact, not a failure** — Alertness genuinely drops in the early afternoon. Schedule mechanical work there and stop trying to do your best thinking in the worst window. (solid)
 - **Twenty minutes or ninety, never forty** — A short nap restores without grogginess, a full cycle restores properly, and the one in between wakes you up in deep sleep feeling worse than before. (solid)
+- **Protect the anchor** — One commitment a week that never moves for work: a sport, with the same people, at the same hour. Burnout in people working for themselves tends to arrive around month eight, and the anchor is what the whole multi-year effort is standing on. (mixed)
 - **Sport is attention training** — Climbing, football, anything that punishes a wandering mind, is single-tasking practice with immediate feedback. The capacity carries back to the desk. (lore)
 
 ### Theme 6: Choosing (the work you do not do)
@@ -325,6 +358,9 @@ paste a seed line as the lesson.
 - **Kill it, do not optimise it** — Before making a task faster, ask whether it should exist. The fastest version of a pointless task is still pointless. (lore)
 - **Decide once** — Turn a recurring decision into a standing policy. Every decision you make twice is a tax you are choosing to pay every week. (mixed)
 - **The delegation line** — Put a number on your hour. Anything that can be bought or automated below that number should not be on your list, and the guilt about that is not evidence. (lore)
+- **Trust the plan, finish the rep** — For people who plan well, the leak is not distraction, it is redesigning the plan while executing it. Deliberating and executing are different modes, and dropping back into design mid-task feels productive while quietly costing the whole block. Change the plan between cycles, never during one. (lore)
+- **The productive escape hatch** — When you drift you rarely drift into nothing, you drift into work that looks like work: the website, the tooling, the brand, the research. It pays out the feeling of progress with none of the exposure to difficulty or rejection. Name yours, because you will not recognise it from the inside. (lore)
+- **Warmest first** — Spend the day on the work closest to a yes. The person who already paid you beats the stranger who might, and the coldest work is the most seductive precisely because nobody is waiting on it. (lore)
 - **The second list** — Write your top twenty five priorities, circle the top five, and treat the other twenty as the avoid-at-all-costs list. They are the ones that will actually eat the year, because they are attractive enough to be dangerous. (lore)
 - **A deadline nobody sees is a wish** — Tell one person the date. External accountability changes the behaviour in a way self-imposed deadlines almost never do. (mixed)
 - **The done list on a bad day** — On the days it all feels pointless, stop writing what is left and write what got finished. The to-do list is infinite by construction, so it can never be evidence of progress. (lore)
@@ -337,6 +373,7 @@ paste a seed line as the lesson.
 - **Explain it to a beginner** — Teach the thing out loud in plain words. The exact sentence where you go vague is the exact place you do not understand it. (mixed, the Feynman technique)
 - **Read outside your field once a week** — Ideas mostly arrive as a collision between two unrelated inputs. A diet of only your own industry produces only your industry's ideas. (lore)
 - **Think on paper, decide on the screen** — Paper is slower, and the slowness is the feature: it stops you editing while you think. (lore)
+- **A failed plan is data** — Nobody starts at the destination. The earlier plan that looked right at the time is the thing that taught you the next one, and treating a dead plan as a personal failure is what makes people stop iterating and start freezing. (lore)
 - **Sleep on the decision, not on the work** — Big calls are consistently better after a night. Small tasks are consistently worse. Know which one is in front of you. (mixed)
 
 ### Theme 8: Finishing (endings decide the next day)
@@ -359,7 +396,7 @@ paste a seed line as the lesson.
 
 ## When the library runs out
 
-Roughly two months of daily lessons live above. When they are used up, or when the user's taste has
+Around three months of daily lessons live above. When they are used up, or when the user's taste has
 clearly outgrown them, write new ones. A new lesson qualifies only if:
 
 - It passes every line of the quality bar above, especially the listicle test.
