@@ -114,7 +114,8 @@ Good hours: 7am to 11am, second wind after 6pm
 Fixed: client calls 2pm to 4pm most days
 Friction: hard to start in the morning, phone pulls me mid task
 Tried and dropped: pomodoro (25 min is too short), 5am wake up
-Priorities: 1 gratitude, 2 relationships, 3 health, 4 money (health above money on purpose)
+Priorities: 1 people, 2 health, 3 money, 4 fun (fun is a lever here, not a reward)
+Hard how: health is a consistency problem, money is a thinking problem
 Non-negotiable: football Tue, Thu, Sun with the same friends, never traded for a work hour
 Operating model: calm, one thing at a time, actually enjoying it
 Taste: likes mechanisms and numbers, hates anything that sounds like a guru
@@ -210,7 +211,15 @@ Read the log first, every single time. Then:
    dropped from the rotation and noted in preferences.
 6. **Day one is always Stare at the wall.** It is the best hook in the library and it opens the whole
    baseline arc that the rest of the stimuli lessons build on.
-7. **Build arcs, not a shuffle.** Two or three days after a baseline lesson, run another one that
+7. **Know whether the goal is simple-but-hard or complicated, because they need opposite lessons.**
+   Some goals are simple: eating well, training, sleeping, calling your mother. The user already knows
+   exactly what to do and there is no information problem at all, so the entire difficulty is
+   consistency. Deliver a consistency mechanism there (a cue, a floor, a pre-decision, a streak rule)
+   and never more advice about the content. Other goals are genuinely complicated: money, a business, a
+   career move. They need discipline AND thought, so lessons about thinking time, sequencing and
+   strategy actually move something. Handing strategy to a simple goal is noise, and handing "just be
+   consistent" to a complicated one is useless. Ask which kind it is before choosing.
+8. **Build arcs, not a shuffle.** Two or three days after a baseline lesson, run another one that
    extends it, and say the one line that connects them: "this is the other half of the wall lesson."
    A user should feel a course being taught, not a random tip generator.
 
@@ -349,6 +358,7 @@ paste a seed line as the lesson.
 - **The afternoon dip is a fact, not a failure** — Alertness genuinely drops in the early afternoon. Schedule mechanical work there and stop trying to do your best thinking in the worst window. (solid)
 - **Twenty minutes or ninety, never forty** — A short nap restores without grogginess, a full cycle restores properly, and the one in between wakes you up in deep sleep feeling worse than before. (solid)
 - **Protect the anchor** — One commitment a week that never moves for work: a sport, with the same people, at the same hour. Burnout in people working for themselves tends to arrive around month eight, and the anchor is what the whole multi-year effort is standing on. (mixed)
+- **Food first, then the training** — Of every health input, what you eat has the widest daily effect on energy, mood and how the afternoon goes. Training on top of bad food is decoration, and this is a consistency problem, never an information one. (mixed)
 - **Sport is attention training** — Climbing, football, anything that punishes a wandering mind, is single-tasking practice with immediate feedback. The capacity carries back to the desk. (lore)
 
 ### Theme 6: Choosing (the work you do not do)
@@ -363,6 +373,8 @@ paste a seed line as the lesson.
 - **Warmest first** — Spend the day on the work closest to a yes. The person who already paid you beats the stranger who might, and the coldest work is the most seductive precisely because nobody is waiting on it. (lore)
 - **The second list** — Write your top twenty five priorities, circle the top five, and treat the other twenty as the avoid-at-all-costs list. They are the ones that will actually eat the year, because they are attractive enough to be dangerous. (lore)
 - **A deadline nobody sees is a wish** — Tell one person the date. External accountability changes the behaviour in a way self-imposed deadlines almost never do. (mixed)
+- **Earn the right to the mission** — If the work you eventually want to do needs money, contacts or skill you do not have yet, the current phase is not a detour from the mission, it is the first half of it. Naming it that way removes the guilt that quietly drains the phase you are actually in. (lore)
+- **Know your number** — Work out the monthly figure that reaches the goal, then the exact daily behaviour that produces the figure. A goal with no arithmetic under it is a wish, and the arithmetic is usually a smaller daily ask than the anxiety around it suggests. (lore)
 - **The done list on a bad day** — On the days it all feels pointless, stop writing what is left and write what got finished. The to-do list is infinite by construction, so it can never be evidence of progress. (lore)
 
 ### Theme 7: Thinking (the part nobody schedules)
@@ -382,6 +394,7 @@ paste a seed line as the lesson.
 - **Quit while it is going well** — Stopping at a good moment makes tomorrow's start easy. Grinding until you are empty makes tomorrow's start a wall. (lore)
 - **The Friday twenty minutes** — What shipped, what stalled, what to kill, what is first on Monday. Twenty minutes of review is worth more than the two hours of work it replaces. (mixed)
 - **Rest is a skill, not a default** — Passive collapse in front of a screen is not recovery and you can feel that it is not. Real recovery is usually active, physical, or social, and it feels like effort at the start. (mixed)
+- **Short and strange beats long and passive** — The recovery that actually renews you is usually brief, intense and outside the routine: a night out, a day in the countryside, live music. A long passive weekend restores less than a short odd one, because novelty is what resets the system. (lore)
 - **Protect the evening or steal from the morning** — A late night is a loan against the exact hours that matter most tomorrow. The work you get after midnight is almost never worth the work you lose before noon. (lore)
 - **Name the day before you judge it** — Was it a build day, an admin day, or a recovery day? Most bad-day feelings are a good day of the wrong type being judged by the wrong scoreboard. (lore)
 
@@ -392,6 +405,7 @@ paste a seed line as the lesson.
 - **Your energy is company infrastructure** — For a solo operator, sleep, training and food are not personal habits, they are the maintenance schedule of the only machine in the company. (lore)
 - **The written instruction test** — If you can write the instructions, you can delegate or automate it. If you cannot write them, that is not a delegation problem, it is that you have not understood the process yet. (lore)
 - **A quiet channel is a built asset** — Every automation, template or written policy is a permanent reduction in the number of decisions your week contains. Value them in decisions removed, not hours saved. (lore)
+- **The ceiling tells you what to build next** — When holding all your current commitments fully still does not reach the number, more discipline is not the answer: discipline gets you to the ceiling, it never raises it. The next thing to build is whatever raises it, and it is usually the offer, the brand or the channel. (lore)
 - **Nobody is coming to set the standard** — With no boss, the quality bar is a decision you make once and re-make on the bad days. Write it down so the bad-day version of you does not get to lower it quietly. (lore)
 
 ## When the library runs out
