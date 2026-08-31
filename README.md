@@ -16,6 +16,7 @@ Free, ready-to-install skills for Claude AI, built and battle-tested by [Finding
 | [replybot](replybot/) | Universal chatbot builder: answers your leads on every platform (Furnished Finder, Airbnb, Zillow, WhatsApp, Instagram, email, your website) in your voice with your policies, in minutes | [replybot.skill](https://github.com/FindingLand/claude-re-skills/raw/main/replybot/replybot.skill) |
 | [followup](followup/) | Complete lead follow-up system: sequences, who to contact today, every message drafted in your voice, nothing goes cold | [followup.skill](https://github.com/FindingLand/claude-re-skills/raw/main/followup/followup.skill) |
 | [rentbill](rentbill/) | Organizes tenant utility billing: splits every bill (flat, per-unit or RUBS), creates the charges in TurboTenant or your rent tool, keeps the paper trail | [rentbill.skill](https://github.com/FindingLand/claude-re-skills/raw/main/rentbill/rentbill.skill) |
+| [learning](learning/) | One short daily lesson on focus, starting, and how work actually gets done: one idea, why it works, one action for today, and a log so it never repeats | [learning.skill](https://github.com/FindingLand/claude-re-skills/raw/main/learning/learning.skill) |
 
 ## How to install a skill (1 minute)
 
